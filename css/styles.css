@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  color: #E4F9F5;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #EAF6F6;
+  width: 5%;
+  margin: 100px auto;
+}
+p {
+  color:#40514E;
+
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+p {
+  line-height: 2;
+}
+a:hover, a:active {
+  color: black;
+}
+a {
+  color: #11999E;
+}
+.skill-row{
+  width:50%;
+  margin: 100 auto;
+  text-align: left;
+  line-height: 2;
+}
+.ship {
+  height: 400;
+    width: 500;
+}
+.webdev {
+  font-weight: normal;
+}
+
+.tc {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bc {
+  position: absolute;
+  left: 250px;
+  top: 350px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  margin: 0 auto;
+}
+.middle-container {
+  margin: 100px auto 20 auto;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 20;
+  margin-bottom: 0;
+}
+
+.languages{
+  width: 25%;
+  height: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.end {
+  color: #EAF6F6;
+  font-size: 0.6rem;
+  padding: 30px;
+}
+.contact-me{
+  line-height: 2;
+
+}
+.contact-message {
+  width: 35%;
+  margin: 40px auto;
+}
+.btn {
+  border-radius: 15px;
+  background-color: #66BFBF;
+  color: white;
+  padding: 5px 25px;
+  margin: 20 auto 100 auto;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link {
+  margin: auto;
+  margin: 50 auto;
+  padding: 30px;
+  color: #11999E;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+
+}
